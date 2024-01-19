@@ -1,18 +1,3 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: P01 Rotation
-// Course: CS 400 Summer 2023
-//
-// Author: Amandeep Chahal
-// Email: aschahal@wisc.edu
-// Lecturer: Peyman Morteza
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons:
-// Online Sources: (identify each by URL and describe how it helped)
-//
-///////////////////////////////////////////////////////////////////////////////
 import java.util.LinkedList;
 import java.util.Stack;
 
